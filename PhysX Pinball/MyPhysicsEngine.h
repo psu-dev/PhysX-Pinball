@@ -32,7 +32,6 @@ namespace PhysicsEngine
 			BALL		= (1 << 0),
 			FLIPPERS	= (1 << 1),
 			BUMPERS		= (1 << 2)
-			//add more if you need
 		};
 	};
 

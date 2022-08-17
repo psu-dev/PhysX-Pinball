@@ -3,8 +3,6 @@
 
 using namespace std;
 
-// Jamie Fixter (17644694) - CGP3021M Physics Simulation Assessment 1
-
 // This pinball simulation is a time-based scoring system with two different types of bumpers. Aim for the best time possible!
 // There are bumpers which utilise capsules and custom TriangleMesh StaticActors, in the form of triangles. The bumpers have a coefficent of
 // restitution (CoR) which is greater than 1, to give propulsion to the ball. Other CoR for the ball and playfield were given here:
